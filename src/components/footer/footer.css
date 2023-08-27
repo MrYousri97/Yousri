@@ -1,3 +1,4 @@
+
 footer{
     background:var(--color-primary);
     padding: 3rem 0;
@@ -56,6 +57,6 @@ footer a{
 
     }
     .footer__socials{
-        margin-bottom: 2.6rem;
+        margin-bottom: 4rem;
     }
 }
