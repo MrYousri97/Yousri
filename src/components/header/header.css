@@ -34,13 +34,13 @@ header {
 }
 
 .me {
-    background: linear-gradient(to right top , rgb(0, 0, 0),rgb(255, 255, 255));
+    background: linear-gradient(to right top , rgb(3, 208, 215),rgb(11, 66, 83));
     width:20rem;
     height: 30rem;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    margin-top: 1rem;
+    margin-top: 1.5rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
     padding: 0.5rem 0.5rem 0.5rem 0.5rem;
