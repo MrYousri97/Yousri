@@ -34,7 +34,7 @@ header {
 }
 
 .me {
-    background: linear-gradient(to right top , rgb(3, 208, 215),rgb(11, 66, 83));
+/*     background: linear-gradient(to right top , rgb(3, 208, 215),rgb(11, 66, 83)); */
     width:20rem;
     height: 30rem;
     position: absolute;
