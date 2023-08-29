@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
 .container.contact__container { 
     width: 58%;
     display: grid;
@@ -5,6 +6,7 @@
     gap:12%;
     height: 80vh;
 }
+
 
 .contact__options{
     display: flex;
@@ -61,6 +63,7 @@ form {
 }
 
 input,textarea{
+    font-family: 'Poppins', sans-serif;
     width: 100%;
     padding: 1.5rem;
     border-radius: 0.5rem;
@@ -83,7 +86,7 @@ input,textarea{
         width: var(--container-width-sm);
         height: auto;
     }
-
-
-
+    .contact__option{
+        margin-bottom: 1rem;
+    }
 }
