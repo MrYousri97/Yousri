@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Yousri/static/css/main.1739996e.css",
+    "main.js": "/Yousri/static/js/main.29060ca9.js",
+    "static/media/22.jpg": "/Yousri/static/media/22.35143c72487ac4b3696b.jpg",
+    "static/media/Test.png": "/Yousri/static/media/Test.79f087647e70d1414aea.png",
+    "static/media/1.jpg": "/Yousri/static/media/1.5edd975983e8051e9915.jpg",
+    "static/media/c4.jpeg": "/Yousri/static/media/c4.a026b85a3dc457678f26.jpeg",
+    "static/media/2.jpg": "/Yousri/static/media/2.3b2e13c2afe5c650ee21.jpg",
+    "static/media/c5.jpeg": "/Yousri/static/media/c5.986dafa2852f028dd676.jpeg",
+    "static/media/c7.jpeg": "/Yousri/static/media/c7.1fa7b1327572af6b8879.jpeg",
+    "static/media/c6.jpeg": "/Yousri/static/media/c6.75e30025941071149da3.jpeg",
+    "static/media/MYousri.pdf": "/Yousri/static/media/MYousri.398a2399fe29c0b6afe8.pdf",
+    "static/media/c3.png": "/Yousri/static/media/c3.e5a91c8a7ebf730ee528.png",
+    "static/media/c1.png": "/Yousri/static/media/c1.a7e6f3127e02fabf09d6.png",
+    "static/media/c2.png": "/Yousri/static/media/c2.ab41ac7fc71631022a21.png",
+    "static/media/portfolio3.jpg": "/Yousri/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "index.html": "/Yousri/index.html",
+    "main.1739996e.css.map": "/Yousri/static/css/main.1739996e.css.map",
+    "main.29060ca9.js.map": "/Yousri/static/js/main.29060ca9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1739996e.css",
+    "static/js/main.29060ca9.js"
+  ]
+}
