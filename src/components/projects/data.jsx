@@ -1,7 +1,7 @@
 import IMG1 from '../../assets/1.jpg'
 import IMG2 from '../../assets/2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/Capture.png'
+import IMG4 from '../../assets/Capture.PNG'
 const data = [
     {
       id:1,
